@@ -1,0 +1,1 @@
+We were tasked to create a simple html document that includes recipes.
